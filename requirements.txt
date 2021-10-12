@@ -1,5 +1,5 @@
 numpy==1.16.4
-opencv-python==4.1.0.25
+opencv-python==4.2.0.32
 pypng==0.0.20
 PyQRCode==1.2.1
 pyzbar==0.1.8
